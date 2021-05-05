@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayrakdev&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=Bayrakdev&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
