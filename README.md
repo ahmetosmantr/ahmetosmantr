@@ -23,6 +23,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bayrakdev&theme=dark&count_private=true&show_icons=true&hide_border=true" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Bayrakdev&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetosmantr&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ahmetosmantr&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
