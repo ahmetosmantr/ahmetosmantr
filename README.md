@@ -1,3 +1,5 @@
+# Hi there, I'm ahmetosmantr -  👋
+
 <h3>Social Media</h3>
 <p align="left">
    <a href="https://discord.com/users/748946208181059648" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
