@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <h3 align="left">Discord Status:</h3>
-   <img src="https://discord.c99.nl/widget/theme-3/748946208181059648.png" width="%50" height="100px" alt="stats" />
+   <img src="https://discord.c99.nl/widget/theme-1/873867399789699092.png" width="%50" height="100px" alt="stats" />
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
